@@ -1,6 +1,6 @@
 [![Header](https://github.com/ArinaTrubnikova/arinatrubnikova/blob/main/assets/name.png)]
 
-About me
+## Занимаюсь тестированием ПО и изучением Frontend-разработки
 
 Tests documentation
 
