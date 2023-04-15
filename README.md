@@ -2,7 +2,9 @@
 
 ## Занимаюсь тестированием ПО и изучением Frontend-разработки
 
-Tests documentation
+## Тестовая документация
+
+
 
 ## Languages and Tools
 
@@ -21,6 +23,5 @@ Tests documentation
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](https://t.me/t_arishka)
-[![Habr](https://img.shields.io/badge/-Habr-000000?style=for-the-badge&logo=Habr&logoColor=5F9EA0)]
+[![Habr](https://img.shields.io/badge/-Habr-000000?style=for-the-badge&logo=Habr&logoColor=5F9EA0)](https://career.habr.com/arinatru)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/t_arishka)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=1E90FF)]
