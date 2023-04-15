@@ -4,6 +4,7 @@ About me
 
 Tests documentation
 
-Languages and tools
+Languages and Tools
 
-How to reach me
+Follow me
+
