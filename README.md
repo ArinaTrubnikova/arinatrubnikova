@@ -1,10 +1,15 @@
 [![Header](https://github.com/ArinaTrubnikova/arinatrubnikova/blob/main/assets/name.png)]
 
 ## Занимаюсь тестированием ПО и изучением Frontend-разработки
+Курсы повышения квалификации
+
+[![Обучение тестированию ПО](https://img.shields.io/badge/-QA-000000?style=for-the-badge)](https://drive.google.com/file/d/1WDz2-NQdMhN1aChdmrpzF-OkmaNdyfXe/view)
+[![Frontend Start](https://img.shields.io/badge/-Frontend-000000?style=for-the-badge)](https://drive.google.com/file/d/1wB7nQpsRgoIcvWc3rObknwmMcU6g75i5/view)
 
 ## Тестовая документация
-
-
+*Составлена на основе выполненных тестовых заданий
+[![Чек-листы](https://img.shields.io/badge/-Checklist-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1W7Z4bI5oTybpB9JvBjlr9m6dZkZApdRuM-6zJ-8HAzk/edit?usp=sharing)
+[![Тест-кейсы](https://img.shields.io/badge/-Testcase-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1-74vLUsi9Yxo59vbzgaJHACLWZqD4Ch8UALOwHLg_3U/edit?usp=sharing)
 
 ## Languages and Tools
 
