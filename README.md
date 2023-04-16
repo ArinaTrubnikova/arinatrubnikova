@@ -13,7 +13,7 @@
 [![Тест-кейсы](https://img.shields.io/badge/-Testcase-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1-74vLUsi9Yxo59vbzgaJHACLWZqD4Ch8UALOwHLg_3U/edit?usp=sharing)
 ![Баг-репорты](https://img.shields.io/badge/-Bugreports-000000?style=for-the-badge)
 ![Requests](https://img.shields.io/badge/-Requests-000000?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge)(https://docs.google.com/spreadsheets/d/1AeeHKZtJNXxX-0oyxZ3IcR_JzzKiR-pbScxVAZLNupA/edit?usp=sharing)
+[![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1AeeHKZtJNXxX-0oyxZ3IcR_JzzKiR-pbScxVAZLNupA/edit?usp=sharing)
 ## Languages and Tools
 
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=1E90FF)
