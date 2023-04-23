@@ -1,4 +1,4 @@
-[![Header](https://github.com/ArinaTrubnikova/arinatrubnikova/blob/main/assets/name.png)]
+![Header](https://github.com/ArinaTrubnikova/arinatrubnikova/blob/main/assets/name.png)
 
 ## Занимаюсь тестированием ПО и изучением Frontend-разработки
 **Ссылки на курсы повышения квалификации**
@@ -15,7 +15,8 @@
 
 **Тест-кейсы**
 
-[![Тест-кейсы](https://img.shields.io/badge/-Testcase-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1-74vLUsi9Yxo59vbzgaJHACLWZqD4Ch8UALOwHLg_3U/edit?usp=sharing)
+[![Тест-кейсы](https://img.shields.io/badge/-ProductStar-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1-74vLUsi9Yxo59vbzgaJHACLWZqD4Ch8UALOwHLg_3U/edit?usp=sharing)
+[![Тест-кейсы](https://img.shields.io/badge/-ЭсАйБезопасность-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/15mPXYn6S8IxDrgjK0x5jw3ccE2_a4wD75dc-7T1AbwA/edit#gid=1926558649)
 
 **Баг-репорты**
 
