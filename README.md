@@ -1,16 +1,20 @@
-## Привет! На этой странице Вы можете познакомиться с моими работами!
-1. Решила изменить свою жизнь
-2. Поменяла профессию
-3. Люблю то, что делаю
-4. Изучаю новое, расту
+**Привет! На этой странице Вы можете познакомиться с моими работами!**
 
-## Занимаюсь тестированием ПО и совершенствованием навыков
+##  ОБО МНЕ
+1. Решила кардинально изменить свою жизнь
+2. Выбрала сферу IT-технологий
+3. Прошла курсы "Обучение тестированию ПО"
+4. Нравится то, что делаю
+5. Продолжаю углубляться в тестирование, чувствую рост над собой
+6. 
+
+## ЧТО СЕЙЧАС?
 *Ссылки на курсы повышения квалификации*
 
 [![Обучение тестированию ПО](https://img.shields.io/badge/-QA-000000?style=for-the-badge)](https://drive.google.com/file/d/1WDz2-NQdMhN1aChdmrpzF-OkmaNdyfXe/view)
 [![Frontend Start](https://img.shields.io/badge/-Frontend-000000?style=for-the-badge)](https://drive.google.com/file/d/1wB7nQpsRgoIcvWc3rObknwmMcU6g75i5/view)
 
-## Тестовая документация
+## ТЕСТОВАЯ ДОКУМЕНТАЦИЯ
 *Ссылки на тестовую документацию, составленную на основе выполненных тестовых заданий, заданий с курсов*
 
 **Чек-листы**
@@ -33,7 +37,7 @@
 
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1AeeHKZtJNXxX-0oyxZ3IcR_JzzKiR-pbScxVAZLNupA/edit?usp=sharing)
 
-## Languages and Tools
+## LANGUAGES AND TOOLS
 
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=for-the-badge&logo=Jira&logoColor=1E90FF)
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=appveyor&logoColor=FF4500)
@@ -48,7 +52,7 @@
 ![Devtools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=appveyor&logoColor=808080)
 ![xMind](https://img.shields.io/badge/-xMind-000000?style=for-the-badge&logo=appveyor&logoColor=FFFFFF)
 
-## Ссылки на мои аккаунты в соцсетях
+## КАК СВЯЗАТЬСЯ СО МНОЙ?
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](https://t.me/t_arishka)
 [![Habr](https://img.shields.io/badge/-Habr-000000?style=for-the-badge&logo=Habr&logoColor=5F9EA0)](https://career.habr.com/arinatru)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/t_arishka)
