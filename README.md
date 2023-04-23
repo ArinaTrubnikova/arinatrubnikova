@@ -11,8 +11,8 @@
 ## Курсы повышения квалификации
 *Ссылки на сертификаты*
 
-[![Обучение тестированию ПО](https://img.shields.io/badge/-QA-000000?style=for-the-badge)](https://drive.google.com/file/d/1WDz2-NQdMhN1aChdmrpzF-OkmaNdyfXe/view)
-[![Frontend Start](https://img.shields.io/badge/-Frontend-000000?style=for-the-badge)](https://drive.google.com/file/d/1wB7nQpsRgoIcvWc3rObknwmMcU6g75i5/view)
+[![Обучение тестированию ПО](https://img.shields.io/badge/-QA-000000?style=for-the-badge?labelColor=006400)](https://drive.google.com/file/d/1WDz2-NQdMhN1aChdmrpzF-OkmaNdyfXe/view)
+[![Frontend Start](https://img.shields.io/badge/-Frontend-000000?style=for-the-badge?labelColor=8b0000)](https://drive.google.com/file/d/1wB7nQpsRgoIcvWc3rObknwmMcU6g75i5/view)
 
 ## Тестовая документация
 *Ссылки на тестовую документацию, составленную на основе выполненных тестовых заданий, заданий с курсов*
