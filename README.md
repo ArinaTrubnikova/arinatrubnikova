@@ -24,10 +24,6 @@
 [![Баг-репорты](https://img.shields.io/badge/-ЭсАйБезопасность-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/15mPXYn6S8IxDrgjK0x5jw3ccE2_a4wD75dc-7T1AbwA/edit#gid=1577042999)
 [![Баг-репорты](https://img.shields.io/badge/-ProductStar-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1N03wlc5Iz--QDPz6NKlMdukVVSqC7kc4kK8wJQUxgLs/edit#gid=1030889720)
 
-*Баг-репорты, заведённые в Jira*
-
-[![Баг-репорты](https://img.shields.io/badge/-Jira-000000?style=for-the-badge)](https://arishka.atlassian.net/jira/software/c/projects/MFTF/boards/4)
-
 **SQL-запросы**
 
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1AeeHKZtJNXxX-0oyxZ3IcR_JzzKiR-pbScxVAZLNupA/edit?usp=sharing)
