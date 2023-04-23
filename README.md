@@ -27,6 +27,7 @@
 *Баг-репорты, заведённые в Jira*
 
 [![Баг-репорты](https://img.shields.io/badge/-Jira-000000?style=for-the-badge)](https://arishka.atlassian.net/jira/software/c/projects/MFTF/boards/4)
+
 **SQL-запросы**
 
 [![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1AeeHKZtJNXxX-0oyxZ3IcR_JzzKiR-pbScxVAZLNupA/edit?usp=sharing)
