@@ -1,4 +1,10 @@
-## Занимаюсь тестированием ПО и изучением Frontend-разработки
+## Привет! На этой странице Вы можете познакомиться с моими работами!
+1. Решила изменить свою жизнь
+2. Поменяла профессию
+3. Люблю то, что делаю
+4. Изучаю новое, расту
+
+## Занимаюсь тестированием ПО и совершенствованием навыков
 *Ссылки на курсы повышения квалификации*
 
 [![Обучение тестированию ПО](https://img.shields.io/badge/-QA-000000?style=for-the-badge)](https://drive.google.com/file/d/1WDz2-NQdMhN1aChdmrpzF-OkmaNdyfXe/view)
@@ -42,7 +48,7 @@
 ![Devtools](https://img.shields.io/badge/-DevTools-000000?style=for-the-badge&logo=appveyor&logoColor=808080)
 ![xMind](https://img.shields.io/badge/-xMind-000000?style=for-the-badge&logo=appveyor&logoColor=FFFFFF)
 
-## Follow me
+## Ссылки на мои аккаунты в соцсетях
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](https://t.me/t_arishka)
 [![Habr](https://img.shields.io/badge/-Habr-000000?style=for-the-badge&logo=Habr&logoColor=5F9EA0)](https://career.habr.com/arinatru)
 [![Вконтакте](https://img.shields.io/badge/-Вконтакте-000000?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/t_arishka)
